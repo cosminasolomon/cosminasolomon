@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Cosmina
-![Cosmina Solomon Banner](https://github.com/cosminasolomon/cosminasolomon/blob/main/bannergithub.png)
+![Cosmina Solomon Banner](https://github.com/cosminasolomon/cosminasolomon/blob/main/cosmina%20banner.png)
 
 I am a Junior Full-Stack Developer.
 
