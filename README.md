@@ -3,7 +3,7 @@
 
 I am a Junior Full-Stack Developer.
 
-Skills: REACT / JS / HTML / CSS / PYTHON / DJANGO 
+Skills: HTML / CSS / REACT / JS / PYTHON / DJANGO / MongoDB / PostgreSQL 
 
 
 
