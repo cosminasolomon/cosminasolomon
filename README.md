@@ -5,7 +5,6 @@ I am a Junior Full-Stack Developer.
 
 Skills: REACT / JS / HTML / CSS / PYTHON / DJANGO 
 
-- 🔭 I’m currently working on this page. 
 
 
 
